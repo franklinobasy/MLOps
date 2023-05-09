@@ -15,6 +15,6 @@ days, whether the stock market will go up or down.
 ### Description
 
 In this section, we will use a Yahoo Finance dataset available for quoting the BTC-USD
-pair in `https://finance.yahoo.com/quote/BTC-USD/` over a period of 3
+pair in [here](https://finance.yahoo.com/quote/BTC-USD/) over a period of 3
 months. We will train a model to predict whether the quote will be going up or not on a
 given day. A REST API will be made available for predictions through MLflow.
