@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/owner/Documents/Codes/MLOps/MLOps/Stock-Prediction/mlruns/0/714a7d9eebd54b3eaab3011bf4c8cf10/artifacts
+end_time: 1683703025934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 714a7d9eebd54b3eaab3011bf4c8cf10
+run_name: chill-mouse-537
+run_uuid: 714a7d9eebd54b3eaab3011bf4c8cf10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683702735057
+status: 3
+tags: []
+user_id: franklin
